@@ -1,0 +1,5 @@
+Python is a powerful programming language.
+File handling is an important topic.
+
+Python makes file handling easy.
+Practice makes a programmer perfect.
